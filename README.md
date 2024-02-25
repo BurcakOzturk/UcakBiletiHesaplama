@@ -1,2 +1,2 @@
 # UcakBiletiHesaplama
- Kullanıcıdan alına
+ Kullanıcıdan alınanbilgilere göre uçak bileti hesaplayan program.
